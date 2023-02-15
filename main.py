@@ -1,6 +1,3 @@
-print("Hello world")
+from chatbot import demo
 
-while(True):
-    Reader = input()
-    print(Reader)
-    
+demo()
